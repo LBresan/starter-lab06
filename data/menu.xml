@@ -37,6 +37,7 @@ Menu control tables for Barker Bob's ...
         <topping code="avocado" price="1.19">fresh avocado</topping>
         <topping code="egg" price="1.19">fried egg</topping>
         <topping code="porkbelly" price="1.19">house-cured pork belly</topping>
+        <topping code="pb" price="2.25">hand-crafted peanut butter</topping>
     </toppings>
 
     <sauces>
